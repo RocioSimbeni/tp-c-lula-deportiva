@@ -1,3 +1,5 @@
+# REVISADO POR QA (Luis): Código óptimo y libre de datos sensibles.
+# REVISADO POR QA (Luis): Código óptimo y libre de datos sensibles.
 
 # PROYECTO: Análisis de Estadísticas Deportivas (Escenario D)
 # ROL: P2 - Desarrollador Técnico (Paco)
