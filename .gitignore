@@ -1,0 +1,24 @@
+# ==============================================================================
+# JIRA TP - ESCENARIO D: .gitignore
+# Exclusión de archivos temporales, entornos y archivos de datos pesados
+# ==============================================================================
+
+# Archivos temporales de Google Colab y Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.virtual_documents/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de Datos Pesados 
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
